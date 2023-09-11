@@ -1,0 +1,29 @@
+header {
+background-color: rgb(255, 255, 255);
+width: 100%;
+z-index: 999;
+display: flex;
+justify-content: space-between;
+
+ } 
+
+ .logo{
+   text-decoration: none;
+   color: blue;
+   text-transform:uppercase ;
+   font-weight:800;
+   font-size:x-large
+ }
+ .navigation a {
+   text-decoration: none;
+   color: blue;
+   text-transform: lowercase;
+   font-weight: 500;
+   font-size:medium
+ }
+
+ #image_amal{ 
+    float: right;
+    border-radius: 50%;
+ }
+ 
